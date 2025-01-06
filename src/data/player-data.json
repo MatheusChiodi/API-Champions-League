@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "nationality": "Norway",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 89,
+      "Shooting": 93,
+      "Passing": 76,
+      "Dribbling": 84,
+      "Defending": 45,
+      "Physical": 88
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kylian Mbappé",
+    "club": "Paris Saint-Germain",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 92,
+      "Pace": 97,
+      "Shooting": 88,
+      "Passing": 80,
+      "Dribbling": 92,
+      "Defending": 39,
+      "Physical": 76
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lionel Messi",
+    "club": "Inter Miami (loaned from PSG)",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 93,
+      "Pace": 81,
+      "Shooting": 90,
+      "Passing": 91,
+      "Dribbling": 94,
+      "Defending": 34,
+      "Physical": 64
+    }
+  },
+  {
+    "id": 4,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 74,
+      "Shooting": 86,
+      "Passing": 93,
+      "Dribbling": 87,
+      "Defending": 64,
+      "Physical": 78
+    }
+  },
+  {
+    "id": 5,
+    "name": "Robert Lewandowski",
+    "club": "Barcelona",
+    "nationality": "Poland",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 76,
+      "Shooting": 93,
+      "Passing": 79,
+      "Dribbling": 85,
+      "Defending": 42,
+      "Physical": 82
+    }
+  },
+  {
+    "id": 6,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 86,
+      "Pace": 95,
+      "Shooting": 79,
+      "Passing": 78,
+      "Dribbling": 92,
+      "Defending": 33,
+      "Physical": 66
+    }
+  },
+  {
+    "id": 7,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 86,
+      "Pace": 77,
+      "Shooting": 75,
+      "Passing": 80,
+      "Dribbling": 85,
+      "Defending": 70,
+      "Physical": 81
+    }
+  },
+  {
+    "id": 8,
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "nationality": "England",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 90,
+      "Pace": 70,
+      "Shooting": 92,
+      "Passing": 83,
+      "Dribbling": 81,
+      "Defending": 47,
+      "Physical": 78
+    }
+  },
+  {
+    "id": 9,
+    "name": "Karim Benzema",
+    "club": "Al-Ittihad (formerly Real Madrid)",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 74,
+      "Shooting": 87,
+      "Passing": 83,
+      "Dribbling": 89,
+      "Defending": 39,
+      "Physical": 78
+    }
+  },
+  {
+    "id": 10,
+    "name": "Alisson Becker",
+    "club": "Liverpool",
+    "nationality": "Brazil",
+    "position": "Goalkeeper",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 45,
+      "Shooting": 18,
+      "Passing": 52,
+      "Dribbling": 51,
+      "Defending": 10,
+      "Physical": 78
+    }
+  },
+  {
+    "id": 11,
+    "name": "Thibaut Courtois",
+    "club": "Real Madrid",
+    "nationality": "Belgium",
+    "position": "Goalkeeper",
+    "statistics": {
+      "Overall": 90,
+      "Pace": 43,
+      "Shooting": 17,
+      "Passing": 55,
+      "Dribbling": 45,
+      "Defending": 11,
+      "Physical": 79
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "nationality": "Egypt",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 90,
+      "Shooting": 86,
+      "Passing": 81,
+      "Dribbling": 90,
+      "Defending": 45,
+      "Physical": 74
+    }
+  },
+  {
+    "id": 13,
+    "name": "Pedri",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 77,
+      "Shooting": 72,
+      "Passing": 87,
+      "Dribbling": 89,
+      "Defending": 61,
+      "Physical": 64
+    }
+  },
+  {
+    "id": 14,
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "nationality": "Netherlands",
+    "position": "Defender",
+    "statistics": {
+      "Overall": 90,
+      "Pace": 71,
+      "Shooting": 60,
+      "Passing": 71,
+      "Dribbling": 72,
+      "Defending": 91,
+      "Physical": 86
+    }
+  },
+  {
+    "id": 15,
+    "name": "Rúben Dias",
+    "club": "Manchester City",
+    "nationality": "Portugal",
+    "position": "Defender",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 63,
+      "Shooting": 50,
+      "Passing": 70,
+      "Dribbling": 68,
+      "Defending": 88,
+      "Physical": 85
+    }
+  },
+  {
+    "id": 16,
+    "name": "Luka Modrić",
+    "club": "Real Madrid",
+    "nationality": "Croatia",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 71,
+      "Shooting": 76,
+      "Passing": 89,
+      "Dribbling": 91,
+      "Defending": 65,
+      "Physical": 60
+    }
+  },
+  {
+    "id": 17,
+    "name": "Marcus Rashford",
+    "club": "Manchester United",
+    "nationality": "England",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 85,
+      "Pace": 94,
+      "Shooting": 83,
+      "Passing": 75,
+      "Dribbling": 87,
+      "Defending": 43,
+      "Physical": 75
+    }
+  },
+  {
+    "id": 18,
+    "name": "Joshua Kimmich",
+    "club": "Bayern Munich",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 66,
+      "Shooting": 72,
+      "Passing": 89,
+      "Dribbling": 84,
+      "Defending": 82,
+      "Physical": 78
+    }
+  },
+  {
+    "id": 19,
+    "name": "Antonio Rüdiger",
+    "club": "Real Madrid",
+    "nationality": "Germany",
+    "position": "Defender",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 82,
+      "Shooting": 48,
+      "Passing": 68,
+      "Dribbling": 68,
+      "Defending": 85,
+      "Physical": 85
+    }
+  }
+]
